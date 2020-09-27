@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 🌱 I’m currently learning web frontend programming
+- 📫 How to reach me: eoniii91@gmail.com
+- 😄 About myself:
+  - 📚 I love books!
+  - 💪 I love exercise!
+  - 💗 I love something beautiful!
+  - 👁 I love mediitation!
+- ⚡ Fun fact:
+  - POWER ENTP
+  - my major was advanced material engineering
 
 <!--
 **choichoikule/choichoikule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
